@@ -17,6 +17,7 @@
 
     <logging>
         <junit outputFile="reports/log.xml"/>
+        <clover outputFile="coverage/coverage.xml"/>
     </logging>
 
 </phpunit>
