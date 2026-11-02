@@ -1,0 +1,18 @@
+{
+    "name": "dell/tp-unit",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dell\\TpUnit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "S920-org",
+            "email": "sadi9bpc@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
