@@ -2,3 +2,4 @@
 /.phpunit.cache/
 /.env
 /reports/*.xml
+/.scannerwork/
