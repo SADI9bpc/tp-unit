@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <phpunit bootstrap="vendor/autoload.php"
          colors="true"
          cacheDirectory=".phpunit.cache">
@@ -18,11 +18,5 @@
     <logging>
         <junit outputFile="reports/log.xml"/>
     </logging>
-
-    <coverage>
-        <report>
-            <clover outputFile="reports/coverage.xml"/>
-        </report>
-    </coverage>
 
 </phpunit>

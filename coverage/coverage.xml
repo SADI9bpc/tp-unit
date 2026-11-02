@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1793635054">
+  <project timestamp="1793635054" name="Clover Coverage">
+    <package name="TpUnit">
+      <file name="C:\Users\dell\Desktop\tp-unit\src\stagiaire.php">
+        <class name="TpUnit\Stagiaire" namespace="TpUnit">
+          <metrics complexity="18" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="25" elements="34" coveredelements="34"/>
+        </class>
+        <line num="11" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="12"/>
+        <line num="13" type="stmt" count="12"/>
+        <line num="14" type="stmt" count="11"/>
+        <line num="15" type="stmt" count="10"/>
+        <line num="18" type="method" name="setNom" visibility="public" complexity="2" crap="2" count="12"/>
+        <line num="20" type="stmt" count="12"/>
+        <line num="21" type="stmt" count="1"/>
+        <line num="24" type="stmt" count="11"/>
+        <line num="27" type="method" name="setAge" visibility="public" complexity="3" crap="3" count="11"/>
+        <line num="29" type="stmt" count="11"/>
+        <line num="30" type="stmt" count="1"/>
+        <line num="33" type="stmt" count="10"/>
+        <line num="36" type="method" name="setMoyenne" visibility="public" complexity="3" crap="3" count="10"/>
+        <line num="38" type="stmt" count="10"/>
+        <line num="39" type="stmt" count="1"/>
+        <line num="42" type="stmt" count="9"/>
+        <line num="45" type="method" name="getNom" visibility="public" complexity="1" crap="1" count="2"/>
+        <line num="47" type="stmt" count="2"/>
+        <line num="50" type="method" name="getAge" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="52" type="stmt" count="1"/>
+        <line num="55" type="method" name="getMoyenne" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="57" type="stmt" count="1"/>
+        <line num="60" type="method" name="estAdmis" visibility="public" complexity="1" crap="1" count="2"/>
+        <line num="62" type="stmt" count="2"/>
+        <line num="65" type="method" name="mention" visibility="public" complexity="5" crap="5" count="5"/>
+        <line num="67" type="stmt" count="5"/>
+        <line num="68" type="stmt" count="1"/>
+        <line num="71" type="stmt" count="4"/>
+        <line num="72" type="stmt" count="1"/>
+        <line num="75" type="stmt" count="3"/>
+        <line num="76" type="stmt" count="1"/>
+        <line num="79" type="stmt" count="2"/>
+        <line num="80" type="stmt" count="1"/>
+        <line num="83" type="stmt" count="1"/>
+        <metrics loc="85" ncloc="85" classes="1" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="25" elements="34" coveredelements="34"/>
+      </file>
+    </package>
+    <metrics files="1" loc="85" ncloc="85" classes="1" methods="9" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="25" elements="34" coveredelements="34"/>
+  </project>
+</coverage>

@@ -1,9 +1,10 @@
+
 {
     "name": "dell/tp-unit",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Dell\\TpUnit\\": "src/"
+            "TpUnit\\": "src/"
         }
     },
     "authors": [
