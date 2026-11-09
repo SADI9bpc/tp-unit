@@ -11,9 +11,9 @@ jobs:
  runs-on: ubuntu-latest
  steps:
  - name: Checkout repository
- uses: actions/checkout@v4
+ uses: actions/checkout@v6
  with:
- fetch-depth: 0 # Historique complet pour Git Blame / SonarCloud
+ fetch-depth: 0
  - name: SonarCloud Scan
  uses: SonarSource/sonarcloud-github-action@masterenv:
  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
